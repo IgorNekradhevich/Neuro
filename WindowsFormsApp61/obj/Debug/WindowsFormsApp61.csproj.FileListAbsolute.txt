@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.exe.config
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.exe
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\bin\Debug\WindowsFormsApp61.pdb
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csprojAssemblyReference.cache
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.Form1.resources
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.Properties.Resources.resources
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.csproj.GenerateResource.cache
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.exe
+C:\Users\1\source\repos\WindowsFormsApp61\WindowsFormsApp61\obj\Debug\WindowsFormsApp61.pdb
